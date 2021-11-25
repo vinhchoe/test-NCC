@@ -1,0 +1,49 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.sidebar{
+ height: 935px;
+width: 10%;
+left: 0px;
+top: 938px;
+border-radius: 0px;
+background-color:black;
+display: inline-block;
+
+
+}
+
+li a{
+    display: inline-block;
+    padding: 14px 16px ;
+    list-style: none;
+    color: #fff;
+    text-decoration: none;
+}
+.main{
+height: 935px;
+width: 89%;
+left: 150px;
+top: 938px;
+border-radius: 0px;
+float: right;
+
+}
+
+
+.content .content1 {
+    height: 470px;
+    width: 250px;
+
+}
+.content .content2 {
+    height: 470px;
+    width: 250px;
+}
+.content .content3 {
+    height: 470px;
+    width: 250px;
+}
